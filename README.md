@@ -1,1 +1,2 @@
-# Python-1st-Project-
+# Python-1st-Project 
+Telco Coustomer Churn Project
